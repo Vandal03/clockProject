@@ -1,0 +1,47 @@
+body{
+    border: solid black 1px;
+    width: 80%;
+    margin: 10px auto 10px auto;
+    background-color: black
+  }
+  
+  #bodyDiv {
+    background-color:grey;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 48px;
+  }
+  
+  #displayTimeDiv {
+    text-align: center;
+    
+  }
+  
+  #imageTime {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+  }
+  
+  #selectTimeDiv {
+    padding: 20px;
+  }
+  
+  div {
+    padding: 10px;
+    
+  }
+  
+  label {
+    font-size: 18px;
+  }
+  
+  
+  img {
+    border: solid black 2px;
+    height: 25%;
+    width: 25%;
+  }
